@@ -1,0 +1,9 @@
+# dependencies main
+/node_modules
+/src/checktoken.js
+/src/firstRun.js
+/src/settoken.js
+/.pnp
+/.env
+.pnp.js
+/.DS_Store

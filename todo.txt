@@ -1,0 +1,31 @@
+To Do List:
+
+[DONE 1]. Make TopSection Container's height according to the device height when using media queries.
+    1a. Change SpotifyContainer's height accordingly
+
+2. RESPONSIVE!
+
+[DONE 3]. Create Figma svgs for WorkContainer Cards
+    3a. Download suitable svg for each card for hover effect
+    3b. Add anchor links
+
+[DONE 4]. Footer
+
+[DONE 5]. Use Varuna for body and amoera for Headers, CDN fonts
+
+[DONE 6]. Add Animations to HelloWorld and IntroContainer (First one only) in about page.
+    6a. Carousel effect for "Software Engineer" in IntroContainer
+
+
+[DONE 7]. For Dukaan: 1st Shopify app store ss, 2nd promo ss, 3rd prod design ss
+[DONE 8]. For Digital Pathology: 1st: Tech stack ss from Pathology project folder, 2nd Image ss from senior design link, 3rd: Web app ss from project folder.
+9. For ChaiMoh: 1st 2 photos of low fidelity drawn in diary, 2nd 2 ss from figma design
+[DONE 10]. For LiveFeed: both photos in downloads folder 
+
+[DONE 11]. TextSelection change from basic blue to something else
+
+
+12. Look into the fonts in Download folder and redo body font and title font
+
+13. On About page, decide whether IntroContainer align-items to be "center" or "flex-start"
+    13a. Also figure if background blur is good or not for workexp IntroContainer
